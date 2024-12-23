@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KiotViet_NQL_De_1": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
